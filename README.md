@@ -8,7 +8,7 @@ Ajustar con precision distancia entre dos puntos, Escalar malla proporcionalment
 
 ### Cómo utilizar
 Los operadores estan documentados, en cualquier caso,
-y a modo de somera explicacion existe: youtube
+y a modo de somera explicacion existe: https://youtu.be/fpFhNG1R5o8
 
 ### Tags
 #Blender #Python #blender-scripts #blender-addon 

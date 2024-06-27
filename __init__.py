@@ -4,7 +4,7 @@ bl_info = {
     "version": (0,2,0),
     "blender": (2, 80, 0),
     "location": "VIEW_3D > Sidebar(UI) > Coia Info ",
-    "description": "Operacionesen elementos de malla",
+    "description": "Operaciones en elementos de malla",
     "doc_url": "",
     "category": "3D View",
 }

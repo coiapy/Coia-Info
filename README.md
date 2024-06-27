@@ -3,7 +3,6 @@ Modificaciones de malla. Addon
 ### Coia-Info
 Add-on Blender.
 Añade herramientas (operadores) o combinaciones de estos.
-Necesitaba:
 Ajustar con precision distancia entre dos puntos, Escalar malla proporcionalmente (longitud absoluta o factorial), Cortar malla por un punto a una distancia exacta a un vertice y pararlelo a una cara.
 
 ### Cómo utilizar

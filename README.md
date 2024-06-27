@@ -1,5 +1,5 @@
 # Coia-Info
-Modificaciones de malla
+Modificaciones de malla. Addon
 ### Coia-Info
 Add-on Blender.
 Añade herramientas (operadores) o combinaciones de estos.

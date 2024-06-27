@@ -11,7 +11,7 @@ y a modo de somera explicacion existe: https://youtu.be/fpFhNG1R5o8
 ![Coia_info](https://github.com/coiapy/Coia-Info/assets/161734611/626b112c-b9f8-4e01-84f6-a931472e50e2)
 
 ### Tags
-#Blender #Python #blender-scripts #blender-addon 
+#Blender #Python #scripts #addon 
 
 ### Sponsors
 ?

@@ -14,4 +14,3 @@ https://youtu.be/fpFhNG1R5o8
 #Blender #Python #scripts #addon 
 
 ## Sponsors
-?
